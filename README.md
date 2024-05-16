@@ -12,6 +12,15 @@
 # Importante:
 NO se desarrolla en la rama main tienen que cambiar a la rama dev
 
+clonar el repositorio:
+``` git clone  https://github.com/JazielRodriguez/planetario-f```
+
+instalar dependencias:
+``` npm install ```
+
+iniciar el servidor:
+``` npm run dev ```
+
 para checar en que rama estas, con el comando
 ``` git branch ```
 
