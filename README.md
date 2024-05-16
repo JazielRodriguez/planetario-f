@@ -13,22 +13,22 @@
 NO se desarrolla en la rama main tienen que cambiar a la rama dev
 
 para checar en que rama estas, con el comando
-''' git branch '''
+``` git branch ```
 
 para cammbiar de rama, con el comando
-''' git checkout <nombre de la rama> '''
+``` git checkout <nombre de la rama> ```
 
 para guardar los cambios en la rama primero se añaden los archivos en el stage:
-''' git add . '''
+``` git add . ```
 
 despues se hace un commit con el siguiente comando:
-''' git commit -m "Mensaje del commit" '''
+``` git commit -m "Mensaje del commit" ```
 
 para checar el estado de la rama:
-''' git status '''
+``` git status ```
 
 y para hacer push al repositorio remoto:
-''' git push '''
+``` git push ```
 
 # MÁS IMPORTANTEEEE:
 Nunca hagan push si estan en la rama main, si la cagan no creo que podamos arreglarlo
